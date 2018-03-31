@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\bin\Debug\T9App.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\bin\Debug\T9App.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\bin\Debug\T9App.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\obj\Debug\T9App.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\obj\Debug\T9App.Form.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\obj\Debug\T9App.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\obj\Debug\T9App.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\obj\Debug\T9App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\obj\Debug\T9App.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\T9App\T9App\obj\Debug\T9App.pdb
